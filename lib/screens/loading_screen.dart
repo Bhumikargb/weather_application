@@ -6,7 +6,7 @@ import 'location_screen.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:clima_flutter_weather_app/services/weather.dart';
 
-// const apiKey='9ac46842f3f7dc7df0f8cef2d03415f3';
+// const apiKey='';
 
 class LoadingScreen extends StatefulWidget {
   @override

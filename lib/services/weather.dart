@@ -3,7 +3,7 @@ import 'package:clima_flutter_weather_app/services/networking.dart';
 
 import 'networking.dart';
 
-const apiKey = 'e72ca729af228beabd5d20e3b7749713';
+const apiKey = '9ac46842f3f7dc7df0f8cef2d03415f3';
 const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/weather';
 
 class WeatherModel {
