@@ -1,10 +1,9 @@
 
-
 import 'package:flutter/material.dart';
 import '../services/weather.dart';
 import 'location_screen.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:clima_flutter_weather_app/services/weather.dart';
+import 'package:permission_handler/permission_handler.dart';
 
 // const apiKey='';
 
